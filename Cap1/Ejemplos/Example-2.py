@@ -7,4 +7,12 @@ spells = [
     "Nox!",
     "Lummos!",
 ]
-print(spells[3])
+print(spells[4])
+
+#Poderes Ryu Marvel va Capcom
+poderes = [
+    "Hadouken",
+    "Tatsumaki",
+    "Shoryuken",
+    ]
+print(poderes[2])

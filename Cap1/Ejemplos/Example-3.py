@@ -5,5 +5,7 @@ quotes = {
     "Curly":"Nuyk nyuk!",
 }
 
-chiflado = "Larry"
-print(chiflado, " dice:", quotes[chiflado])
+chiflado1 = "Larry"
+chiflado2 = "Curly"
+print(chiflado1,"dice:", quotes[chiflado1])
+print(chiflado2,"dice:", quotes[chiflado2])
