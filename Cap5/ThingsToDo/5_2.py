@@ -18,4 +18,6 @@ result.append(questions[1])
 result.append(answers[2])
 result.append(questions[2])
 result.append(answers[0])#Salida como lista
+
+    
 print(result)
