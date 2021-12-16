@@ -1,7 +1,7 @@
 guess_me = 5
 for number in range (9): 
     if number < guess_me:
-       print ("too low")
+       print (number,"too low")
     elif number == guess_me:
         print ("found it!")
     elif number > guess_me:
